@@ -1,0 +1,9 @@
+[submodule "modules/fairygui"]
+	path = modules/fairygui
+	url = git@github.com:mkdevkit/FairyGUI-Godot.git
+[submodule "modules/GodotJS"]
+	path = modules/GodotJS
+	url = git@github.com:mkdevkit/GodotJS.git
+[submodule "modules/spine_godot"]
+	path = modules/spine_godot
+	url = git@github.com:mkdevkit/spine_godot.git
